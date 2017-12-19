@@ -1,5 +1,5 @@
-# RC522Uino-UID-Reader-
-Arduino RC522 RFID module based UID reader for authentication/identification
+# RC522Uino-UID-Reader
+Very Cheap Arduino Nano & RC522 RFID module based UID reader for authentication/identification
 
 
 ## Parts list
