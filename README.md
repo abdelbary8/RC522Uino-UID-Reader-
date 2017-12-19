@@ -35,3 +35,8 @@ You can now start soldering your own RFID reader
 Open the rc522uidreader.ino and upload it
 
 Congratulations, you made it :+1:
+
+Shown below the final works without box!
+![RC522Uino UID Reader Top View](https://raw.githubusercontent.com/abdelbary8/RC522Uino-UID-Reader-/master/RC522Uino%20UID%20Reader%20Top%20View.jpg)
+
+![RC522Uino UID Reader Bottom View](https://raw.githubusercontent.com/abdelbary8/RC522Uino-UID-Reader-/master/RC522Uino%20UID%20Reader%20bottom%20View.jpg)
